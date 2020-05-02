@@ -1,6 +1,7 @@
 .display-4{
     color: black;
     text-align: center;
+    background-color: blue;
 }
 
 
@@ -9,24 +10,17 @@
   /* Add a background color and some padding around the form */
 .container {
     border-radius: 5px;
-    background-color:lightcoral;
+    
     padding: 20px;
   }
 
 body{
-      background-color: lightblue;
+      
     }
 
 
 
 label{
-    color:lightblue;
+    
 }
 
-footer{
-    position:relative; 
-    margin-top:280px;
-    text-align: center; 
-    color:lightcoral;
-}
-  
