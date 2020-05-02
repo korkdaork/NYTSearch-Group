@@ -1,7 +1,3 @@
-.jumbotron{
-    background-color: aquamarine;
-}
-
 .display-4{
     color: black;
     text-align: center;
@@ -57,3 +53,11 @@ footer{
     margin-top:280px;
     text-align: center; 
     color:lightcoral}
+  body{background-color: white;}
+.navbar{background-color: lightseagreen !important;}
+.navbar-brand{color:lightblue !important;}
+.nav-link{color:lightblue !important;}
+h1{color:lightcoral;}
+label{color:lightblue;}
+footer{position:relative; margin-top:280px;text-align: center; color:lightcoral}
+>>>>>>> 902446cda399d7682d20f5f88bb4cc8bf6010576
