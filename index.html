@@ -8,17 +8,44 @@
     
     <link rel="stylesheet" href="/nyt.css">
     <title> NYTimes Search</title>
-    
-</head>
+<head>   
 <body>
-    <div class="jumbotron jumbotron-fluid align-content-center">    
-        <div class="container">
-            <h1 class="display-4">New York Times Search</h1>
 
-        </div>
+<div class="jumbotron jumbotron-fluid align-content-center">    
+    <div class="container">
+        <h1 class="display-4">New York Times Search</h1>
 
     </div>
+
+</div>
+
+<div class="container">
+    <form action="action_page.php">
     
+        <label for="fname">Search Term</label>
+        <input type="text" id="search" name="search term" >
+    
+        <label for="lname">Number of Records to Retrieve</label>
+        <input type="text" id="records" name="records to retrieve" >
+    
+        <label for="lname">Start Year (optional)</label>
+        <input type="text" id="start" name="start year" >
+
+        <label for="lname">End Year (optional)</label>
+        <input type="text" id="end" name="end year" >
+    
+        
+    
+        
+        <button>Search</button>
+        <button> Clear Search </button>
+
+        
+    
+    </form>
+    </div>
+          
+
 
 
 
