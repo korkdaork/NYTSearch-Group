@@ -1,3 +1,14 @@
+$(".searchBtn").on("click", function(){
+
+})
+
+$(".clearBtn").on("click", function(){
+
+})
+
+
+
+
 function findArticle(article) {
     var movie = movie;
     var queryURL = "https://www.omdbapi.com/?t=" + movie + "&apikey=trilogy";
