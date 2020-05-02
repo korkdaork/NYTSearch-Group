@@ -30,7 +30,7 @@ input[type=text], select, textarea {
     background-color:lightcoral;
     padding: 20px;
   }
-  body{background-color: lightblue;}
+  body{background-color: white;}
 .navbar{background-color: lightseagreen !important;}
 .navbar-brand{color:lightblue !important;}
 .nav-link{color:lightblue !important;}
