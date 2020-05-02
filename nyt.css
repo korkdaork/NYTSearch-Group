@@ -1,8 +1,13 @@
-<<<<<<< HEAD
 .jumbotron{
-    background-color:rgb(71, 71, 230);
+    background-color: aquamarine;
 }
-=======
+
+.display-4{
+    color: black;
+    text-align: center;
+}
+
+
 input[type=text], select, textarea {
     width: 100%; /* Full width */
     padding: 12px; /* Some padding */ 
@@ -35,11 +40,20 @@ input[type=text], select, textarea {
     background-color:lightcoral;
     padding: 20px;
   }
-  body{background-color: lightblue;}
-.navbar{background-color: lightseagreen !important;}
-.navbar-brand{color:lightblue !important;}
-.nav-link{color:lightblue !important;}
-h1{color:lightcoral;}
-label{color:lightblue;}
-footer{position:relative; margin-top:280px;text-align: center; color:lightcoral}
->>>>>>> 1e47dea3ed99de28f1f44347aa9a34e2a18d59ff
+  body{
+      background-color: lightblue;}
+.navbar{
+    background-color: lightseagreen !important;}
+.navbar-brand{
+    color:lightblue !important;}
+.nav-link{
+    color:lightblue !important;}
+h1{
+    color:lightcoral;}
+label{
+    color:lightblue;}
+footer{
+    position:relative; 
+    margin-top:280px;
+    text-align: center; 
+    color:lightcoral}
